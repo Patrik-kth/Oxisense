@@ -33,3 +33,4 @@ Oxisense is an ongoing student project. Functionality, design, and codebase are 
 - Tobias Brasiliero Reyes
 - Romeo Haddad
 - Simon Mahari
+- Lilian Geesu
